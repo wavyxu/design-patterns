@@ -8,6 +8,7 @@ import java.util.List;
  * @author: Vivian Xu
  */
 public class MyList implements Iterable<String>{
+//public class MyList{
 
     List<String> list = new ArrayList<String>();
 

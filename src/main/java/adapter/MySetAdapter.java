@@ -1,5 +1,7 @@
 package adapter;
 
+import java.util.function.Consumer;
+
 /**
  * @author: Vivian Xu
  */
